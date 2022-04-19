@@ -1,0 +1,10 @@
+new project:
+
+setup virtual environment:
+py -3 -m venv .venv
+.venv\scripts\activate
+
+
+install packages:
+python -m pip install pandas
+python -m pip install sqlalchemy
